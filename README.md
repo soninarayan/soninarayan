@@ -18,8 +18,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
+  <a href="https://narayansoni.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-narayansoni.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
   </a>
 </p>
 
