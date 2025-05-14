@@ -71,7 +71,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/soninarayan/soninarayan/output/dist/snake.svg"
+    src="https://raw.githubusercontent.com/soninarayan/soninarayan/main/docs/snake.svg"
     alt="Contribution Snake"
     width="600"
   />
