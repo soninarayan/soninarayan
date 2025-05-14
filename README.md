@@ -6,7 +6,10 @@
 
 <!-- ✨ Subtitle Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A8EAE&width=500&lines=A+passionate+developer;Full-stack+Java+%7C+Spring+Boot;Cloud+&+DevOps+Enthusiast" alt="Typing SVG"/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A8EAE&width=650&lines=A+Passionate+Developer;Full-Stack+Engineer;Web+Developer;Cloud+%26+DevOps+Enthusiast;AI+%26+ML+Explorer;Gen+AI+Fan;Java+%26+Spring+Boot;Node.js+%26+React;Angular+%26+TypeScript;Database+Architect"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
