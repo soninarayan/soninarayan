@@ -19,7 +19,7 @@
   </a>
   &nbsp;
   <a href="https://narayansoni.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-narayansoni.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
+    <img src="https://img.shields.io/badge/narayansoni.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
   </a>
 </p>
 
