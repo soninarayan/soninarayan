@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"      # every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -10,28 +10,28 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (all branches)
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          persist-credentials: true
 
-      - name: Generate snake.svg
+      - name: Generate snake.svg into docs/
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          palette: github-dark
-          output: docs/snake.svg
+          # outputs is "<path>?<query‑string>"
+          outputs: docs/snake.svg?palette=github-dark
 
-      - name: Commit & push to main/docs
+      - name: Commit & push updated snake.svg
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name    "github-actions[bot]"
+          git config user.email   "github-actions[bot]@users.noreply.github.com"
           git add docs/snake.svg
-          git commit -m "chore: update snake animation [ci skip]" || echo "No changes to commit"
+          git commit -m "chore: update snake animation [ci skip]" || echo "→ no changes to commit"
           git push origin main
