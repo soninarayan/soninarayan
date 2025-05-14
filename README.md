@@ -73,7 +73,7 @@
   <img
     src="https://raw.githubusercontent.com/soninarayan/soninarayan/main/docs/snake.svg"
     alt="Contribution Snake"
-    width="600"
+    width="6000"
   />
 </p>
 
@@ -83,6 +83,10 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3og0IPMeREO17H1hes/giphy.gif" width="200" alt="🔥 Keep Coding!"/>
+  <img
+    src="https://raw.githubusercontent.com/soninarayan/soninarayan/main/docs/keep-coding.gif"
+    width="200"
+    alt="🔥 Keep Coding!"
+  />
 </div>
 
