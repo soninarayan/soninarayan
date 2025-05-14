@@ -70,7 +70,11 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/soninarayan/soninarayan/output/dist/snake.svg"
+    alt="Contribution Snake"
+    width="600"
+  />
 </p>
 
 > “Simplicity is the soul of efficiency.”  
