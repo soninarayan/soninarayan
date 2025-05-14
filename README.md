@@ -84,7 +84,7 @@
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/soninarayan/soninarayan/main/docs/keep-coding.gif"
+    src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
     width="200"
     alt="🔥 Keep Coding!"
   />
