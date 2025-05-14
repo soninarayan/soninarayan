@@ -14,34 +14,6 @@
 
 ---
 
-### 🔗 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/soninarayan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://narayansoni.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
-  </a>
-</p>
-
----
-
-### 📈 Profile Metrics
-
-<p align="center">
-  <!-- Followers count -->
-  <a href="https://github.com/soninarayan?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/soninarayan?label=Followers&style=social" alt="Followers"/>
-  </a>
-  &nbsp;
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=soninarayan&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
-</p>
-
----
-
 ## 💻 Tech Stack:
 
 
@@ -78,7 +50,6 @@
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) 
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -99,6 +70,37 @@
     width="6000"
   />
 </p>
+
+---
+
+### 🔗 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/soninarayan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://narayansoni.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
+  </a>
+</p>
+
+---
+
+### 📈 Profile Metrics
+
+<p align="center">
+  <!-- Followers count -->
+  <a href="https://github.com/soninarayan?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/soninarayan?label=Followers&style=social" alt="Followers"/>
+  </a>
+  &nbsp;
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=soninarayan&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
+
+
+
 
 > “Simplicity is the soul of efficiency.”  
 > ― Austin Freeman
